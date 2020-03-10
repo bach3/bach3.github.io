@@ -1,0 +1,22 @@
+{
+  "short_name": "bach3.github.io",
+  "name": "bach3's Github",
+  "description": "bach3's Github",
+  "icons": [
+    {
+      "src": "/img/GitHub-Mark-32px.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/img/GitHub-Mark-120px-plus.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
+}
