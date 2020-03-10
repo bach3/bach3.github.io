@@ -4,19 +4,25 @@
   "description": "bach3's Github",
   "icons": [
     {
-      "src": "/img/GitHub-Mark-32px.png",
-      "type": "image/png",
-      "sizes": "32x32"
+        "src": "https://github.com/apple-touch-icon-76x76.png",
+        "sizes": "76x76",
+        "type": "image/png"
     },
     {
-      "src": "/img/GitHub-Mark-120px-plus.png",
-      "type": "image/png",
-      "sizes": "120x120"
+        "src": "https://github.com/apple-touch-icon-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    },
+    {
+        "src": "https://github.com/apple-touch-icon-180x180.png",
+        "sizes": "192x192",
+        "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": "./index.html",
   "background_color": "#3367D6",
   "display": "standalone",
+  "orientation": "any",
   "scope": "/",
   "theme_color": "#3367D6"
 }
